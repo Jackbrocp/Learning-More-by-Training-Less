@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper."
+title: "Learning More by Training Less paper repository"
+authors:
+  - family-names: Yang
+    given-names: Suorong
+  - family-names: Wang
+    given-names: Jiaxin
+  - family-names: Su
+    given-names: Jiaming
+  - family-names: Yue
+    given-names: Chentao
+  - family-names: Shen
+    given-names: Furao
+  - family-names: Ye
+    given-names: Peng
+  - family-names: Poria
+    given-names: Soujanya
+repository-code: "https://github.com/Jackbrocp/Learning-More-by-Training-Less"
+preferred-citation:
+  type: generic
+  title: "Learning More by Training Less: Uncertainty-Guided Progressive Contraction for Efficient Reasoning Post-Training"
+  authors:
+    - family-names: Yang
+      given-names: Suorong
+    - family-names: Wang
+      given-names: Jiaxin
+    - family-names: Su
+      given-names: Jiaming
+    - family-names: Yue
+      given-names: Chentao
+    - family-names: Shen
+      given-names: Furao
+    - family-names: Ye
+      given-names: Peng
+    - family-names: Poria
+      given-names: Soujanya
+  year: 2026
+  url: "https://arxiv.org/abs/2610.12933"
+  identifiers:
+    - type: other
+      value: "arXiv:2610.12933"
+      description: "arXiv preprint"
